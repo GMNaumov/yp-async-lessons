@@ -1,4 +1,5 @@
 import multiprocessing as mp
+import sys
 
 print('Get data from stdin:')
 s = input('Input smth:')
